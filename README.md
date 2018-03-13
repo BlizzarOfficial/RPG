@@ -1,36 +1,19 @@
 # RPG
 RPG Game 
 
-GIT BASICS ANLEITUNG
+Version 0.1
 
-git clone https://github.com/<nutzername>/<repository>
-  
-.gitignore darf Dateien enthalten, die vom Repository ignoriert werden
+- Added Basic functionality
+- Created Map and import the Map
+- Create and animate Player
 
-cd <repository>
-  
-git status (Zeigt an, dass man auf Hauptbranch master ist)
+Version 0.2
 
-git checkout -b development
+- Create collisions for walls
+- Create first NPC
+- Create Menu 
+- Added Background sounds
 
-git status (Zeigt an, dass man auf Hauptbranch development ist)
+Version 0.3
 
-z.B. Datei editieren in IDE oder per Konsole mit notepad++ etc pp
-
-SPEICHERN!
-
-git status (zeigt in rot an modified: <dateiname>)
-  
-git add <dateiname> oder bei mehreren Dateien hintereinander, oder git add -A für alle
-  
-git status (zeigt in grün die Dateien an, die jetzt im STAGING Bereich liegen)
-
-git commit -m "Sinnvoller Kommentar zur Änderung"
-
-git checkout master
-
-git merge development
-
-git pull origin master
-
-git push origin master
+- include SQL
