@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/">
+        <file>img/background.png</file>
+        <file>img/map.png</file>
+        <file>img/player.png</file>
+        <file>img/skill.png</file>
+        <file>sounds/bgsound.mp3</file>
+        <file>sounds/menusound.mp3</file>
+        <file>img/splash.png</file>
+        <file>img/btn_menu_clicked.png</file>
+        <file>img/btn_menu_hover.png</file>
+        <file>img/btn_menu_normal.png</file>
+        <file>img/menubg.png</file>
+        <file>img/logomenu.png</file>
+        <file>img/giphy.gif</file>
+        <file>img/login.png</file>
+    </qresource>
+</RCC>
